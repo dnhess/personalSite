@@ -1,6 +1,6 @@
 {
-  "projectName": "gatsby-starter-ceevee",
-  "projectOwner": "amandeepmittal",
+  "projectName": "Dillon Hess Personal Site",
+  "projectOwner": "Dillon Hess",
   "files": [
     "README.md"
   ],
@@ -8,10 +8,10 @@
   "commit": true,
   "contributors": [
     {
-      "login": "code",
-      "name": "codegent",
+      "login": "dillon",
+      "name": "dillon",
       "avatar_url": "https://avatars1.githubusercontent.com/u/7318?v=4",
-      "profile": "http://www.codegent.com",
+      "profile": "http://www.dillonhess.me",
       "contributions": [
         "question",
         "code",
