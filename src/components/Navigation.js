@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const Navigation = () => (
   <nav id="nav-wrap">
     <a className="mobile-btn" href="#nav-wrap" />
